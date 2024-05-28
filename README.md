@@ -1,4 +1,4 @@
-<h2 align="center">Bonjour! 👋 Its Ishan Pardeshi Here.</h2>
+<h1 align="center">Bonjour! 👋 Its Ishan Pardeshi Here.</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"  />
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. 💡 Always exploring innovative ideas and bringing them to life. 🤝 Eager to collaborate on exciting projects and push the boundaries of what's possible. 👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</p>
+<h5 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. <br>💡 Always exploring innovative ideas and bringing them to life.<br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h5>
 
 ###
 
@@ -79,8 +79,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IPcaser&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=IPcaser&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="158" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IPcaser&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="179" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IPcaser&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="179" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IPcaser&radius=16&theme=dracula&area=true&order=5" height="263" alt="activity-graph graph"  />
 </div>
 
