@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/ec/d4/b8/ecd4b8909096ae5e1f7808e03013e7a7.gif"  />
+  <img height="420" src="https://i.pinimg.com/originals/ec/d4/b8/ecd4b8909096ae5e1f7808e03013e7a7.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"  />
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. <br>💡 Always exploring innovative ideas and bringing them to life.<br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h5>
+<h5 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. <br><br>💡 Always exploring innovative ideas and bringing them to life.<br><br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br><br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h5>
 
 ###
 
@@ -102,6 +102,14 @@
   </a>
   <a href="https://www.facebook.com/ishan.pardeshi.12?mibextid=ZbWKwL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31z5yz5rlzlwxo3mctbapgl5bbna">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z5yz5rlzlwxo3mctbapgl5bbna&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
