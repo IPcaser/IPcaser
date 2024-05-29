@@ -24,6 +24,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IPcaser.IPcaser&left_color=magenta&right_color=blueviolet"  />
+</div>
+
+###
+
 <h3 align="left">👨‍💻Languages and Tools</h3>
 
 ###
@@ -79,9 +85,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IPcaser&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="179" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=IPcaser&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="179" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IPcaser&radius=16&theme=dracula&area=true&order=5" height="263" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IPcaser&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IPcaser&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="179" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IPcaser&radius=16&theme=synthwave-84&area=true&order=5" height="263" alt="activity-graph graph"  />
 </div>
 
 ###
