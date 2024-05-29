@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. <br><br>💡 Always exploring innovative ideas and bringing them to life.<br><br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br><br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h4>
+<h4 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI. <br><br>💡 Always exploring innovative ideas and bringing them to life.<br><br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br><br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h4>
 
 ###
 
