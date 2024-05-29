@@ -107,7 +107,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.mkgifs.com/wp-content/uploads/2023/05/Purple-Vegeta-GIF.gif"  />
+<img align="right" height="250" src="https://www.mkgifs.com/wp-content/uploads/2023/05/Purple-Vegeta-GIF.gif"  />
 
 ###
 
