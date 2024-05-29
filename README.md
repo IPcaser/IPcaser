@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🗨️About me</h3>
+<h2 align="left">🗨️About me</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">👨‍💻Languages and Tools</h3>
+<h2 align="left">👨‍💻Languages and Tools</h2>
 
 ###
 
@@ -119,6 +119,6 @@
 
 ###
 
-<h3 align="left">À bientôt 👋</h3>
+<h2 align="left">À bientôt 👋</h2>
 
 ###
