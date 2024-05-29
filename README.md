@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. <br><br>💡 Always exploring innovative ideas and bringing them to life.<br><br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br><br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h5>
+<h4 align="left">🎓 BTech Computer Engineering student passionate about ML, DL, AI, and RL. <br><br>💡 Always exploring innovative ideas and bringing them to life.<br><br> 🤝 Eager to collaborate on exciting projects and push the boundaries.<br><br>👨‍💻Ask me about:- AI, Machine Learning, Deep Learning and RL</h4>
 
 ###
 
@@ -107,10 +107,18 @@
 
 ###
 
-<div align="center">
+<img align="right" height="200" src="https://www.mkgifs.com/wp-content/uploads/2023/05/Purple-Vegeta-GIF.gif"  />
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/31z5yz5rlzlwxo3mctbapgl5bbna">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z5yz5rlzlwxo3mctbapgl5bbna&count=1" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">À bientôt 👋</h3>
 
 ###
