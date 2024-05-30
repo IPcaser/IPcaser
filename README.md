@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IPcaser.IPcaser&left_color=magenta&right_color=blueviolet"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IPcaser.IPcaser&left_color=magenta&right_color=blueviolet"/>
 </div>
 
 
