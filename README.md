@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour! 👋 Its Ishan Pardeshi Here.</h1>
 
 ###
- 
+
 <div align="center">
   <img height="420" src="https://i.pinimg.com/originals/ec/d4/b8/ecd4b8909096ae5e1f7808e03013e7a7.gif"  />
 </div>
@@ -92,34 +92,26 @@
 
 ###
 
+<img align="right" height="200" src="https://www.mkgifs.com/wp-content/uploads/2023/05/Purple-Vegeta-GIF.gif"  />
+
+###
+
 <h3 align="left">📲Connect with Me</h3>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ishan-pardeshi-169308272/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/ishan2325/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  />
   </a>
   <a href="ishanapardeshi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/ishan.pardeshi.12?mibextid=ZbWKwL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="200" src="https://www.mkgifs.com/wp-content/uploads/2023/05/Purple-Vegeta-GIF.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31z5yz5rlzlwxo3mctbapgl5bbna">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z5yz5rlzlwxo3mctbapgl5bbna&count=1" alt="Spotify recently played"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="facebook logo"  />
   </a>
 </div>
 
