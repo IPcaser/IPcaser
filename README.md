@@ -117,6 +117,6 @@
 
 ###
 
-<h1 align="left">À bientôt 👋</h1>
+<h3 align="left">À bientôt 👋</h3>
 
 ###
